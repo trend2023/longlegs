@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 """
 Binance Smart Chain BEP20 Utility tool
-Simple chain crawler of specific token's net gain/loss for specific wallet(s),
+Simple chain scrapper of specific token's net gain/loss for specific wallet(s),
 Depending on data provided in CSV file.
 
 """
