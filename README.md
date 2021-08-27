@@ -1,4 +1,6 @@
 # longlegs
+Version 0.01
+
 Simple python bscscan smart chain net gain/loss data scrapper
 
 Requires transactions list SCV file from BSCSCAN.
